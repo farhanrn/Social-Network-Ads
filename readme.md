@@ -1,4 +1,4 @@
-![alt text](https://github.com/farhanrn/Social-Network-Ads/blob/main/ilustrationn.jpeg?raw=true)
+![img](https://github.com/farhanrn/Social-Network-Ads/blob/main/ilustrationn.jpeg?raw=true)
 # Social Network Ads Using K-Nearest Neighbor 
 
 This project is an analysis of social networking using the KNN classification algorithm. 
