@@ -10,9 +10,8 @@ This project is an analysis of social networking using the KNN classification al
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+- Python, Jupyter Notebook
 
-**Server:** Node, Express
 
 
 ## Results
