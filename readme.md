@@ -13,7 +13,6 @@ This project is an analysis of social networking using the KNN classification al
 - Python, Jupyter Notebook
 
 
-
 ## Results
 
 Result on Training Set : 
@@ -25,3 +24,5 @@ Result on Test Set :
 
 
 in the results of the classification using the KNN algorithm, there were 14 people who were classified as not buying the product who were detected buying in the training set, while in the evaluation set there were 7 people
+
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
