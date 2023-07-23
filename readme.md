@@ -1,4 +1,4 @@
-
+![image](https://github.com/farhanrn/Data-Science-Project/assets/85650579/2634483f-64c8-4198-bc18-739df61739bf?raw=true)
 # Social Network Ads Using K-Nearest Neighbor 
 
 This project is an analysis of social networking using the KNN classification algorithm. 
